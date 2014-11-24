@@ -1,0 +1,46 @@
+* {{name}}
+* {{company}}
+
+{{#person}}Never shown!{{/person}}
+
+{{#repo}}<b>{{name}}</b>{{/repo}}
+
+incorrect:
+{{#wrapped}}{{name}} is awesome.{{/wrapped}}
+
+correct to write so:
+{{?wrapped1}}{{name}} is awesome.{{/wrapped1}}
+
+Company:
+{{?company}}owner - {{owner}}{{/company}}
+{{#company}}name {{name}} id {{id}} money {{money}}{{/company}}
+Bank:
+{{#company.bank}}name {{name}} age {{age}}{{/company.bank}}
+
+
+Testing!!!
+user:
+{{user}}*{{should skip}}*{{user}}
+
+check:
+{{#void}}does not display{{/void}}
+{{^void}}should display{{/void}}
+
+
+CHECK:
+{{#void}}does {{void1}}not display{{/void}}
+{{^void}}should {{void1}}display{{/void}}
+
+
+
+check-check:
+{{#void}}does not display, please
+{{#void1}}does not display{{/void1}}{{^void1}}should display{{/void1}}{{/void}}
+{{^void}}should display, please
+{{#void1}}does not display{{/void1}}{{^void1}}should display{{/void1}}{{/void}}
+
+check brackets:
+{ } { }} { } }} { { }}{ {
+
+last check:
+{{^aa.b}}should display, please{{/aa.b}}

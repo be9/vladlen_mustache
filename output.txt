@@ -1,0 +1,50 @@
+* Chris
+* <b>GitHub</b>
+
+
+
+<b>hub</b>
+<b>resque</b>
+<b>rip</b>
+
+incorrect:
+<b>Willy is awesome.</b>
+
+correct to write so:
+<b>Willy is awesome.</b>
+
+Company:
+owner - Ivan Ivanovich
+=_=name bank id 2 money 10 000 000=_=
+*<name ice id 65 money 199 111>*
+***name ironwork id 1 money 1 000 000***
+Bank:
+=_=name savings bank age 25
+name sibbank age 3=_=
+
+
+Testing!!!
+user:
+anonym123**anonym123
+
+check:
+
+should display
+
+
+CHECK:
+
+should display
+
+
+
+check-check:
+
+should display, please
+should display
+
+check brackets:
+{ } { }} { } }} { { }}{ {
+
+last check:
+should display, please

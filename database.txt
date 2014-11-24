@@ -1,0 +1,106 @@
+[
+	"name" (Chris)
+	"company" (<b>GitHub</b>)
+]
+
+"repo"
+{
+	"resque"
+	{
+		[
+			"name" (resque)
+		]
+	}
+	"hub"
+	{
+		[
+			"name" (hub)
+		]
+	}
+	"rip"
+	{
+		[
+			"name" (rip)
+		]
+	}
+}
+
+"wrapped"
+{
+	<"<b>" "</b>">
+	"anything"
+	{
+		[
+			"name" (Willy)
+		]
+	}
+}
+
+"wrapped1"
+{
+	<"<b>" "</b>">
+	[
+		"name" (Willy)
+	]
+}
+
+
+"company"
+{
+	[
+		"owner" (Ivan Ivanovich)
+	]
+	"ice"
+	{
+		<"*<" ">*">
+		[
+			"name" (ice)
+			"id" (65)
+			"money" (199 111)
+		]
+	}
+	"ironwork"
+	{
+		<"***" "***">
+		[
+			"name" (ironwork)
+			"id" (1)
+			"money" (1 000 000)
+		]
+	}
+	"bank"
+	{
+		<"=_=" "=_=">
+		[
+			"name" (bank)
+			"id" (2)
+			"money" (10 000 000)
+		]
+		"savings bank"
+		{
+			[
+				"name" (savings bank)
+				"age" (25)
+			]
+		}
+		"sibbank"
+		{
+			[
+				"name" (sibbank)
+				"age" (3)
+			]
+		}
+	}
+}
+
+
+
+[
+	"user" (anonym123)
+]
+
+
+
+
+
+
